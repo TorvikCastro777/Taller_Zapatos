@@ -31,5 +31,6 @@
     <string name="femenino">Femenino</string>
     <string name="zapatilla">Zapatilla</string>
     <string name="clasico">Clasico</string>
+    <string name="ingreseCantidad">Ingrese Cantidad</string>
 
 </resources>

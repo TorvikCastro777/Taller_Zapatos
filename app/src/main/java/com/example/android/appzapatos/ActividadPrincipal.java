@@ -154,7 +154,7 @@ public class ActividadPrincipal extends AppCompatActivity {
 
     public void borrar(View v){
         cantidad.setText("");
-        subtotal.setError("");
+        subtotal.setText("");
         total.setText("");
         cantidad.requestFocus();
 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppZapatos</string>
+    <string name="Sexo">Define gender</string>
+    <string name="adidas">Adidas</string>
+    <string name="borrar">Clear</string>
+    <string name="calcular">Calculate</string>
+    <string name="clasico">Classic</string>
+    <string name="error2">Your amount can not be zero</string>
+    <string name="errorVacio">Enter Quantity to buy</string>
+    <string name="femenino">Female</string>
+    <string name="ingresar">Enter</string>
+    <string name="marca">Brand</string>
+    <string name="masculino">Male</string>
+    <string name="nike">Nike</string>
+    <string name="puma">Puma</string>
+    <string name="titiulo">Shoe store</string>
+    <string name="valorTotal">The total value of your purchase is:</string>
+    <string name="valorUnidad">The value per unit of your shoe is:</string>
+    <string name="zapatilla">Shoe</string>
+    <string name="zapatos">Define Shoes Style</string>
+    <string name="ingreseCantidad">Enter Quantity</string>
+</resources>
