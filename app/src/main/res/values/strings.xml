@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AppZapatos</string>
+    <string name="titiulo">Tienda de Zapatos</string>
+    <string name="Sexo">Defina Sexo</string>
+    <string name="zapatos">Defina Estilo de Zapatos</string>
+    <string name="marca">Seleccione la Marca</string>
+    <string name="valorUnidad">El Valor por unidad de su Zapato es:</string>
+    <string name="valorTotal">El valor total de su compra es:</string>
+    <string name="calcular">Calcular valor</string>
+    <string name="borrar">Borrar</string>
+    <string name="nike">Nike</string>
+    <string name="adidas">Adidas</string>
+    <string name="puma">Puma</string>
+    <string name="errorVacio">Ingrese Cantidad a comprar</string>
+    <string name="error2">Su cantidad no puede ser cero</string>
+    <string name="ingresar">Ingrese Cantidad a Comprar</string>
+    <string-array name="sexo">
+        <item>@string/masculino</item>
+        <item>@string/femenino</item>
+    </string-array>
+    <string-array name="tipo">
+        <item>@string/zapatilla</item>
+        <item>@string/clasico</item>
+    </string-array>
+    <string-array name="zapato">
+        <item>@string/nike</item>
+        <item>@string/adidas</item>
+        <item>@string/puma</item>
+    </string-array>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="zapatilla">Zapatilla</string>
+    <string name="clasico">Clasico</string>
+
+</resources>
